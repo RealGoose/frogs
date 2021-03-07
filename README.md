@@ -2,4 +2,4 @@
 
 
 
-welcom
+welcome
